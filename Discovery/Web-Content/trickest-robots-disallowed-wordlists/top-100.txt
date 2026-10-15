@@ -1242,6 +1242,7 @@ aihub/tfhub
 aistudio-static
 aistudio/*favicon*.png$
 aitestkitchen/website/flow/applets
+aitestkitchen/website/flow/social
 ajax
 ajax/bootloader-endpoint
 ajax/follow_info
@@ -1347,7 +1348,7 @@ athletic/login2?login_source
 athletic/login2?ref_page
 athletic/login?login_source
 athletic/login?ref_page
-athletic/mlb/game/discuss
+athletic/nfl/game/discuss
 athletic/pv.json
 athletic/register
 athletic/register2
@@ -2165,9 +2166,9 @@ hp/video
 hpc/*/supported-applications.aspx?
 hpm
 hpmob
-http://dropbox.com/robots.txt
-http://mozilla.org/robots.txt
-http://npr.org/robots.txt
+http://amazon.co.uk/robots.txt
+http://cdc.gov/robots.txt
+http://washingtonpost.com/robots.txt
 http://web.archive.org/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
@@ -4337,7 +4338,7 @@ wiki/Wikipedia%3AVandalismi_in_corso
 wiki/Wikipedia%3AVandalismusmeldung
 wiki/Wikipedia%3AVandalismusmeldung%2F
 wiki/Wikipedia%3AVermittlungsausschuss
-wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://secure.gravatar.com/robots.txt
+wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://maps.app.goo.gl/robots.txt
 wiki/Wikipedia%3AVotes_for_deletion
 wiki/Wikipedia%3AWikiProject_Deletion_sorting
 wiki/Wikipedia%3AWikiProject_Spam
@@ -4506,7 +4507,7 @@ wiki/Wikipedia_Diskussion:Checkuser%2F
 wiki/Wikipedia_Diskussion:Spam-Blacklist-Log
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://docs.google.com/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://itunes.apple.com/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
